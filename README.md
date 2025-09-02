@@ -32,10 +32,10 @@ turtle module (comes pre-installed)
 Run the Project
 
 # Clone the repo
-git clone https://github.com/your-username/pookalam-turtle.git
+git clone https://github.com/akashvinod369/pookalam-turtle.git
 
 # Move into project folder
-cd pookalam-turtle
+Code-a-Pookalam
 
 # Run the code
 python pookalam.py
