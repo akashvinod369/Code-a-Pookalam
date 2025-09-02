@@ -55,13 +55,15 @@ The Pookalam (floral carpet) is a symbol of unity, joy, and tradition.
 
 🤝 Contribute
 
-Want to make the Pookalam even more colorful? 🌈
+Want to make the Pookalam even more colorful?🌈
 
 Fork the repo
 
 Try new color palettes or shapes
 
 Open a pull request
+
+
 
 
 📜 License
