@@ -31,9 +31,8 @@ Python 3.x installed
 
 turtle module (comes pre-installed)
 
-Pookalam Design
-
-![WhatsApp Image 2025-09-02 at 23 31 46_f29aae6b](https://github.com/user-attachments/assets/e54efefb-b31d-4814-805a-34602a9a02cb)
+# Pookalam Preview
+![WhatsApp Image 2025-09-02 at 23 31 46_f29aae6b](https://github.com/user-attachments/assets/7b26c6b1-866b-410c-ab41-ea12a0fcf52e)
 
 
 Run the Project
