@@ -1,8 +1,9 @@
 # Code-a-Pookalam
-This vibrant digital Pookalam was crafted using Python's Turtle graphics module, blending traditional Kerala aesthetics with geometric precision. The design features concentric rings, floral bursts, diamond motifs, and radial dot patterns—all layered in harmonious symmetry.
 
-🌸 Pookalam with Python Turtle 🐢 
-A vibrant Onam Pookalam (floral rangoli) created with Python’s turtle graphics.
+🌸 Pookalam with Python Turtle 🐢
+
+
+A vibrant Onam Pookalam (floral rangoli) created with Python’s turtle graphics.This vibrant digital Pookalam was crafted using Python's Turtle graphics module, blending traditional Kerala aesthetics with geometric precision. The design features concentric rings, floral bursts, diamond motifs, and radial dot patterns—all layered in harmonious symmetry.
 Celebrate the colors of tradition, culture, and creativity — right from your terminal! 🎨✨
 
 ✨ Features
