@@ -8,8 +8,14 @@ Celebrate the colors of tradition, culture, and creativity — right from your t
 ✨ Features
 
 🎨 Vibrant Patterns – Circles, petals, diamonds & dots
+
+
 🌀 Radial Symmetry – Traditional rangoli style
+
+
 🐢 Python Turtle – Simple yet powerful graphics
+
+
 🌼 Festival Vibes – Inspired by Kerala’s Onam Pookalam
 
 
@@ -61,6 +67,7 @@ Open a pull request
 
 Licensed under the MIT License ✅
 Feel free to use, share, and remix.
+
 
 👉 “Code the colors. Celebrate the culture.” ✨
 
