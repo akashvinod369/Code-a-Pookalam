@@ -47,10 +47,15 @@ Sit back and watch the Pookalam bloom on your screen 🌺
 
 
 
+
+
+
 🏵️ Inspiration
 
 The project celebrates Onam, Kerala’s harvest festival 🌾.
 The Pookalam (floral carpet) is a symbol of unity, joy, and tradition.
+
+
 
 
 🤝 Contribute
@@ -72,7 +77,7 @@ Licensed under the MIT License ✅
 Feel free to use, share, and remix.
 
 
-👉 “Code the colors. Celebrate the culture.” ✨
+
 
 
 
